@@ -1,3 +1,4 @@
+![Banner](images/bank_check_output.jpg)
 # RomanLiteralsKata
 This project uses a coding cata from the FAU CS6 SWAT Seminar.
 
